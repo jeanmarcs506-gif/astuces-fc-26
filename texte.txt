@@ -1,0 +1,752 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astuces FC 26 | PlayStation & Xbox</title>
+    <meta name="description" content="Astuces FC 26 pour PlayStation et Xbox : défense, attaque, tactiques et conseils pour gagner plus de matchs.">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #0f172a;
+            color: #e5e7eb;
+        }
+
+        /* MENU */
+        nav {
+            background-color: #020617;
+            padding: 15px;
+            text-align: center;
+        }
+        nav a {
+            color: #38bdf8;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* HERO */
+        .hero {
+            position: relative;
+            height: 70vh;
+            background: url("images/fc26-hero.jpg") center/cover no-repeat;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .hero::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: rgba(0,0,0,0.55);
+        }
+        .hero-content {
+            position: relative;
+            text-align: center;
+            z-index: 1;
+            padding: 20px;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            color: #38bdf8;
+            margin-bottom: 10px;
+        }
+        .hero p {
+            font-size: 1.2rem;
+            color: #e5e7eb;
+        }
+
+        /* SECTIONS */
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 30px 20px;
+        }
+        h2 {
+            color: #38bdf8;
+        }
+
+        .box {
+            background-color: #020617;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        /* PLATFORMS */
+        .platforms {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .platform {
+            flex: 1;
+            min-width: 250px;
+            background-color: #020617;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        footer {
+            background-color: #020617;
+            text-align: center;
+            padding: 15px;
+            font-size: 14px;
+            color: #94a3b8;
+        }
+    </style>
+</head>
+
+<body>
+
+<nav>
+    <a href="#defense">Défense</a>
+    <a href="#attaque">Attaque</a>
+    <a href="#plateformes">PlayStation / Xbox</a>
+    <a href="#conseils">Conseils</a>
+</nav>
+
+<!-- HERO -->
+<header class="hero">
+    <div class="hero-content">
+        <h1>Astuces FC 26</h1>
+        <p>Progresse plus vite et gagne plus de matchs</p>
+    </div>
+</header>
+
+<section>
+
+    <div class="box" id="defense">
+        <h2>⚽ Astuces Défense</h2>
+        <ul>
+            <li>Utilise la contention (L2 / LT), ne presse pas en continu.</li>
+            <li>Défends avec les milieux avant de sortir les centraux.</li>
+            <li>Anticipe plutôt que tacler.</li>
+        </ul>
+    </div>
+
+    <div class="box" id="attaque">
+        <h2>🔥 Astuces Attaque</h2>
+        <ul>
+            <li>Ne sprinte pas tout le temps.</li>
+            <li>Utilise les une-deux pour casser les lignes.</li>
+            <li>Privilégie les frappes placées.</li>
+        </ul>
+    </div>
+
+    <div class="box" id="plateformes">
+        <h2>🎮 Commandes PlayStation & Xbox</h2>
+
+        <div class="platforms">
+            <div class="platform">
+                <h3>🟦 PlayStation</h3>
+                <ul>
+                    <li>Contenir : <strong>L2</strong></li>
+                    <li>Appel de balle : <strong>L1</strong></li>
+                    <li>Une-deux : <strong>L1 + Passe</strong></li>
+                    <li>Frappe placée : <strong>R1 + Tir</strong></li>
+                </ul>
+            </div>
+
+            <div class="platform">
+                <h3>🟩 Xbox</h3>
+                <ul>
+                    <li>Contenir : <strong>LT</strong></li>
+                    <li>Appel de balle : <strong>LB</strong></li>
+                    <li>Une-deux : <strong>LB + Passe</strong></li>
+                    <li>Frappe placée : <strong>RB + Tir</strong></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="box" id="conseils">
+        <h2>🧠 Conseils Généraux</h2>
+        <ul>
+            <li>Reste calme, même après un but encaissé.</li>
+            <li>Joue simple quand tu mènes.</li>
+            <li>Analyse tes défaites.</li>
+        </ul>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 - Astuces FC 26 | Site non officiel EA Sports</p>
+</footer>
+
+</body>
+</html>
+<style><!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astuces FC 26 | PlayStation & Xbox</title>
+    <meta name="description" content="Astuces FC 26 pour PlayStation et Xbox : défense, attaque, tactiques et conseils pour gagner plus de matchs.">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #0f172a;
+            color: #e5e7eb;
+        }
+
+        /* MENU */
+        nav {
+            background-color: #020617;
+            padding: 15px;
+            text-align: center;
+        }
+        nav a {
+            color: #38bdf8;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* HERO */
+        .hero {
+            position: relative;
+            height: 70vh;
+            background: url("images/fc26-hero.jpg") center/cover no-repeat;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .hero::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: rgba(0,0,0,0.55);
+        }
+        .hero-content {
+            position: relative;
+            text-align: center;
+            z-index: 1;
+            padding: 20px;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            color: #38bdf8;
+            margin-bottom: 10px;
+        }
+        .hero p {
+            font-size: 1.2rem;
+            color: #e5e7eb;
+        }
+
+        /* SECTIONS */
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 30px 20px;
+        }
+        h2 {
+            color: #38bdf8;
+        }
+
+        .box {
+            background-color: #020617;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        /* PLATFORMS */
+        .platforms {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .platform {
+            flex: 1;
+            min-width: 250px;
+            background-color: #020617;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        footer {
+            background-color: #020617;
+            text-align: center;
+            padding: 15px;
+            font-size: 14px;
+            color: #94a3b8;
+        }
+    </style>
+</head>
+
+<body>
+
+<nav>
+    <a href="#defense">Défense</a>
+    <a href="#attaque">Attaque</a>
+    <a href="#plateformes">PlayStation / Xbox</a>
+    <a href="#conseils">Conseils</a>
+</nav>
+
+<!-- HERO -->
+<header class="hero">
+    <div class="hero-content">
+        <h1>Astuces FC 26</h1>
+        <p>Progresse plus vite et gagne plus de matchs</p>
+    </div>
+</header>
+
+<section>
+
+    <div class="box" id="defense">
+        <h2>⚽ Astuces Défense</h2>
+        <ul>
+            <li>Utilise la contention (L2 / LT), ne presse pas en continu.</li>
+            <li>Défends avec les milieux avant de sortir les centraux.</li>
+            <li>Anticipe plutôt que tacler.</li>
+        </ul>
+    </div>
+
+    <div class="box" id="attaque">
+        <h2>🔥 Astuces Attaque</h2>
+        <ul>
+            <li>Ne sprinte pas tout le temps.</li>
+            <li>Utilise les une-deux pour casser les lignes.</li>
+            <li>Privilégie les frappes placées.</li>
+        </ul>
+    </div>
+
+    <div class="box" id="plateformes">
+        <h2>🎮 Commandes PlayStation & Xbox</h2>
+
+        <div class="platforms">
+            <div class="platform">
+                <h3>🟦 PlayStation</h3>
+                <ul>
+                    <li>Contenir : <strong>L2</strong></li>
+                    <li>Appel de balle : <strong>L1</strong></li>
+                    <li>Une-deux : <strong>L1 + Passe</strong></li>
+                    <li>Frappe placée : <strong>R1 + Tir</strong></li>
+                </ul>
+            </div>
+
+            <div class="platform">
+                <h3>🟩 Xbox</h3>
+                <ul>
+                    <li>Contenir : <strong>LT</strong></li>
+                    <li>Appel de balle : <strong>LB</strong></li>
+                    <li>Une-deux : <strong>LB + Passe</strong></li>
+                    <li>Frappe placée : <strong>RB + Tir</strong></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="box" id="conseils">
+        <h2>🧠 Conseils Généraux</h2>
+        <ul>
+            <li>Reste calme, même après un but encaissé.</li>
+            <li>Joue simple quand tu mènes.</li>
+            <li>Analyse tes défaites.</li>
+        </ul>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 - Astuces FC 26 | Site non officiel EA Sports</p>
+</footer>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astuces FC 26 | PlayStation & Xbox</title>
+    <meta name="description" content="Astuces FC 26 pour PlayStation et Xbox : défense, attaque, tactiques et conseils pour gagner plus de matchs.">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #0f172a;
+            color: #e5e7eb;
+        }
+
+        /* MENU */
+        nav {
+            background-color: #020617;
+            padding: 15px;
+            text-align: center;
+        }
+        nav a {
+            color: #38bdf8;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* HERO */
+        .hero {
+            position: relative;
+            height: 70vh;
+            background: url("images/fc26-hero.jpg") center/cover no-repeat;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .hero::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: rgba(0,0,0,0.55);
+        }
+        .hero-content {
+            position: relative;
+            text-align: center;
+            z-index: 1;
+            padding: 20px;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            color: #38bdf8;
+            margin-bottom: 10px;
+        }
+        .hero p {
+            font-size: 1.2rem;
+            color: #e5e7eb;
+        }
+
+        /* SECTIONS */
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 30px 20px;
+        }
+        h2 {
+            color: #38bdf8;
+        }
+
+        .box {
+            background-color: #020617;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        /* PLATFORMS */
+        .platforms {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .platform {
+            flex: 1;
+            min-width: 250px;
+            background-color: #020617;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        footer {
+            background-color: #020617;
+            text-align: center;
+            padding: 15px;
+            font-size: 14px;
+            color: #94a3b8;
+        }
+    </style>
+</head>
+
+<body>
+
+<nav>
+    <a href="#defense">Défense</a>
+    <a href="#attaque">Attaque</a>
+    <a href="#plateformes">PlayStation / Xbox</a>
+    <a href="#conseils">Conseils</a>
+</nav>
+
+<!-- HERO -->
+<header class="hero">
+    <div class="hero-content">
+        <h1>Astuces FC 26</h1>
+        <p>Progresse plus vite et gagne plus de matchs</p>
+    </div>
+</header>
+
+<section>
+
+    <div class="box" id="defense">
+        <h2>⚽ Astuces Défense</h2>
+        <ul>
+            <li>Utilise la contention (L2 / LT), ne presse pas en continu.</li>
+            <li>Défends avec les milieux avant de sortir les centraux.</li>
+            <li>Anticipe plutôt que tacler.</li>
+        </ul>
+    </div>
+
+    <div class="box" id="attaque">
+        <h2>🔥 Astuces Attaque</h2>
+        <ul>
+            <li>Ne sprinte pas tout le temps.</li>
+            <li>Utilise les une-deux pour casser les lignes.</li>
+            <li>Privilégie les frappes placées.</li>
+        </ul>
+    </div>
+
+    <div class="box" id="plateformes">
+        <h2>🎮 Commandes PlayStation & Xbox</h2>
+
+        <div class="platforms">
+            <div class="platform">
+                <h3>🟦 PlayStation</h3>
+                <ul>
+                    <li>Contenir : <strong>L2</strong></li>
+                    <li>Appel de balle : <strong>L1</strong></li>
+                    <li>Une-deux : <strong>L1 + Passe</strong></li>
+                    <li>Frappe placée : <strong>R1 + Tir</strong></li>
+                </ul>
+            </div>
+
+            <div class="platform">
+                <h3>🟩 Xbox</h3>
+                <ul>
+                    <li>Contenir : <strong>LT</strong></li>
+                    <li>Appel de balle : <strong>LB</strong></li>
+                    <li>Une-deux : <strong>LB + Passe</strong></li>
+                    <li>Frappe placée : <strong>RB + Tir</strong></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="box" id="conseils">
+        <h2>🧠 Conseils Généraux</h2>
+        <ul>
+            <li>Reste calme, même après un but encaissé.</li>
+            <li>Joue simple quand tu mènes.</li>
+            <li>Analyse tes défaites.</li>
+        </ul>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 - Astuces FC 26 | Site non officiel EA Sports</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Astuces FC 26 | PlayStation & Xbox</title>
+    <meta name="description" content="Astuces FC 26 pour PlayStation et Xbox : défense, attaque, tactiques et conseils pour gagner plus de matchs.">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #0f172a;
+            color: #e5e7eb;
+        }
+
+        /* MENU */
+        nav {
+            background-color: #020617;
+            padding: 15px;
+            text-align: center;
+        }
+        nav a {
+            color: #38bdf8;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* HERO */
+        .hero {
+            position: relative;
+            height: 70vh;
+            background: url("images/fc26-hero.jpg") center/cover no-repeat;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .hero::after {
+            content: "";
+            position: absolute;
+            inset: 0;
+            background: rgba(0,0,0,0.55);
+        }
+        .hero-content {
+            position: relative;
+            text-align: center;
+            z-index: 1;
+            padding: 20px;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            color: #38bdf8;
+            margin-bottom: 10px;
+        }
+        .hero p {
+            font-size: 1.2rem;
+            color: #e5e7eb;
+        }
+
+        /* SECTIONS */
+        section {
+            max-width: 1000px;
+            margin: auto;
+            padding: 30px 20px;
+        }
+        h2 {
+            color: #38bdf8;
+        }
+
+        .box {
+            background-color: #020617;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        /* PLATFORMS */
+        .platforms {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .platform {
+            flex: 1;
+            min-width: 250px;
+            background-color: #020617;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        footer {
+            background-color: #020617;
+            text-align: center;
+            padding: 15px;
+            font-size: 14px;
+            color: #94a3b8;
+        }
+    </style>
+</head>
+
+<body>
+
+<nav>
+    <a href="#defense">Défense</a>
+    <a href="#attaque">Attaque</a>
+    <a href="#plateformes">PlayStation / Xbox</a>
+    <a href="#conseils">Conseils</a>
+</nav>
+
+<!-- HERO -->
+<header class="hero">
+    <div class="hero-content">
+        <h1>Astuces FC 26</h1>
+        <p>Progresse plus vite et gagne plus de matchs</p>
+    </div>
+</header>
+
+<section>
+
+    <div class="box" id="defense">
+        <h2>⚽ Astuces Défense</h2>
+        <ul>
+            <li>Utilise la contention (L2 / LT), ne presse pas en continu.</li>
+            <li>Défends avec les milieux avant de sortir les centraux.</li>
+            <li>Anticipe plutôt que tacler.</li>
+        </ul>
+    </div>
+
+    <div class="box" id="attaque">
+        <h2>🔥 Astuces Attaque</h2>
+        <ul>
+            <li>Ne sprinte pas tout le temps.</li>
+            <li>Utilise les une-deux pour casser les lignes.</li>
+            <li>Privilégie les frappes placées.</li>
+        </ul>
+    </div>
+
+    <div class="box" id="plateformes">
+        <h2>🎮 Commandes PlayStation & Xbox</h2>
+
+        <div class="platforms">
+            <div class="platform">
+                <h3>🟦 PlayStation</h3>
+                <ul>
+                    <li>Contenir : <strong>L2</strong></li>
+                    <li>Appel de balle : <strong>L1</strong></li>
+                    <li>Une-deux : <strong>L1 + Passe</strong></li>
+                    <li>Frappe placée : <strong>R1 + Tir</strong></li>
+                </ul>
+            </div>
+
+            <div class="platform">
+                <h3>🟩 Xbox</h3>
+                <ul>
+                    <li>Contenir : <strong>LT</strong></li>
+                    <li>Appel de balle : <strong>LB</strong></li>
+                    <li>Une-deux : <strong>LB + Passe</strong></li>
+                    <li>Frappe placée : <strong>RB + Tir</strong></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="box" id="conseils">
+        <h2>🧠 Conseils Généraux</h2>
+        <ul>
+            <li>Reste calme, même après un but encaissé.</li>
+            <li>Joue simple quand tu mènes.</li>
+            <li>Analyse tes défaites.</li>
+        </ul>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2026 - Astuces FC 26 | Site non officiel EA Sports</p>
+</footer>
+
+</body>
+</html>
+</style>
